@@ -39,7 +39,7 @@
 
 - add selected products
 - delete selected products
-- set order state to ready
+- set order state to be dispatched
 - set order state to dispatched
 
 ## Customer
